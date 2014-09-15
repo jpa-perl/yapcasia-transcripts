@@ -1,9 +1,5 @@
 # The Tale of Plack
 
-* 本記事はCC BY-NC (c) [Japan Perl Association](http://japan.perlassociation.org)です
-* 本記事は無料公開されていますが、YAPC::Asia Tokyo運営のサポートをしてもよいと考えていただける場合は是非Amazon.comより[Kindle版の購入をご検討ください](http://www.amazon.co.jp/gp/product/B00NK6NW7Y/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B00NK6NW7Y&linkCode=as2&tag=jpaperl-22)
-* [トーク動画も合わせてご覧ください](http://yapcasia.org/2010/talks/63D5EA98-BC8C-11DF-8791-B9FC0F276C45)
-
 皆さん、お疲れさまです。ちょっと夏は暑いんで脱いじゃいましたけれど、さっきフェライト会議室の前に居たら、出入り口のほうが酒臭くて、僕もついつい飲んでしまいまして。（笑）２本しか飲んでいないんで。（笑）
 
 ![](http://30d.jp/img/yapcasia/2/907_large.jpg "(c) Japan Perl Association")
