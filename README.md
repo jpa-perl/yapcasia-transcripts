@@ -15,6 +15,10 @@ YAPC::Asia Tokyo 2010以降のトークは一部の例外を除いて全て録�
 
 さらに、本データはePubに変換後 Amazon.com上に登録され、有償でのKindle上での閲覧が可能となっております。元データはもちろんこのレポジトリおよびYAPC::Asia Tokyoの[Transcriptsサイト](http://transcripts.yapcasia.org)で提供されていますが、有償版はその売り上げ金をYAPC::Asia Tokyo関連のコストの一部を補うために販売されています。もし気に入ったトークがありましたら是非購入していただければと思います。
 
+## IF YOU FIND ERRORS
+
+誤字・脱字を含む間違いを見つけた場合は[GitHub上のプロジェクトページ](https://github.com/jpa-perl/yapcasia-transcripts) にissueを作成していただくか、pull request を作成してください。
+
 ## LICENSE
 
 CC BY-NA (c) Japan Perl Association
