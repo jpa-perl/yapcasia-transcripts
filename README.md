@@ -21,4 +21,4 @@ YAPC::Asia Tokyo 2010以降のトークは一部の例外を除いて全て録�
 
 ## LICENSE
 
-CC BY-NA (c) Japan Perl Association
+CC BY-NC (c) Japan Perl Association
