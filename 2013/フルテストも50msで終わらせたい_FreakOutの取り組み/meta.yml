@@ -1,0 +1,14 @@
+---
+title:
+  - type: main
+    text: The Tale of Plack
+creator:
+  - role: author
+    text: Tatsuro Hisamori (久森達郎）
+  - role: editor
+    text: Haruna Kudo （工藤春奈）
+identifier: http://yapcasia.org/2013/talk/show/767463b0-d8fd-11e2-971a-72936aeab6a4
+language: ja-JP
+rights: (c) 2014 Japan Perl Association, CC BY-NC
+x-yapcasia
+  amazon_link: TBD
