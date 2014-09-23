@@ -1,7 +1,7 @@
 ---
 title:
   - type: main
-    text: The Tale of Plack
+    text: フルテストも50msで終わらせたい 〜 FreakOutの取り組み 〜
 creator:
   - role: author
     text: Tatsuro Hisamori (久森達郎）
